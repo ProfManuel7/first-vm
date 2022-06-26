@@ -1,0 +1,2 @@
+$ vagrant up  //to start vm
+$ vagrant ssh //now you are inside vm

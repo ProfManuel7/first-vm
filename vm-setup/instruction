@@ -1,0 +1,9 @@
+>> Download and install VirtualBox
+>> Download and install Vagrant
+>> Open command prompt
+>> Add ubuntu focal image:
+	>> $ vagrant box add ubuntu/focal64
+>> Create first VM
+	>> $ vagrant init ubuntu/focal64
+>> vagrant plugin install vagrant-vbguest
+
